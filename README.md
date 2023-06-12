@@ -3,6 +3,8 @@
 
 - 🔭 I’m working on an app to accelerate research by revamping the participant acquisition pipeline! [Tryal](https://github.com/etweisberg/tryal-s2023)
 
+- 👨‍💻 Check out my projects below! Including [Twitter Student Classifier](https://github.com/christopherwun/twitter-student-classifier), a NLP project that I presented and published at an AACL international conference and [LC CROS](https://github.com/christopherwun/LC_CROS), a low-cost hearing aid prototype.
+
 - 🌱 I’m currently learning **TensorFlow, Node.js**
 
 - 📫 How to reach me **wunc@seas.upenn.edu**
