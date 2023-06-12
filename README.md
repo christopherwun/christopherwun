@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate bioengineering/computer science major at UPenn</h3>
+<h1 align="center">Hi 👋, I'm Chris!</h1>
+<h3 align="center">Rising junior pursuing BSE in Bioengineering and Computer Information Science, and an accelerated MSE in Robotics at the University of Pennsylvania. Passionate about the clinical implementation of software and devices. </h3>
 
 - 🔭 I’m currently working on [Tryal](https://github.com/etweisberg/tryal-s2023)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/christopher wun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher wun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christopherwun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher wun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
