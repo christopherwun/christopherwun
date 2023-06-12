@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
-<h3 align="center">Bioengineering, Computer Science, and Robotics @ UPenn. Passionate about the clinical implementation of software and devices. </h3>
+<h3 align="center">Studying bioengineering, computer science, and robotics @ UPenn. I'm passionate about the clinical implementation of software and devices! </h3>
 
 - 🔭 I’m currently working on [Tryal](https://github.com/etweisberg/tryal-s2023)
 
