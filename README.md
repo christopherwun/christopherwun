@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
 <h3 align="center">Studying bioengineering, computer science, and robotics @ UPenn. I'm passionate about the clinical implementation of software and devices! </h3>
 
-- 🔭 I’m currently working on an app to accelerate research by revamping the participant acquisition pipeline! [Tryal](https://github.com/etweisberg/tryal-s2023)
+- 🔭 I’m working on an app to accelerate research by revamping the participant acquisition pipeline! [Tryal](https://github.com/etweisberg/tryal-s2023)
 
 - 🌱 I’m currently learning **TensorFlow, Node.js**
 
