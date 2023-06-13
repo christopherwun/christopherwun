@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
 <h3 align="center">I'm studying bioengineering, CS, and robotics @ UPenn, and passionate about the clinical implementation of software and devices! </h3>
 
-- 🔭 I’m working on [Tryal](https://github.com/etweisberg/tryal-s2023), an app to accelerate research by revamping the participant acquisition pipeline! 
+- 🔭 I’m working on [Tryal](https://github.com/etweisberg/tryal-s2023), an app to accelerate research + clinical trials by revamping the participant acquisition pipeline! 
 
 - 👨‍💻 Check out my projects below! Including [Twitter Student Classifier](https://github.com/christopherwun/twitter-student-classifier), a NLP project that I presented and published at an AACL international conference and [LC CROS](https://github.com/christopherwun/LC_CROS), audio-processing software for a low-cost hearing aid prototype.
 
