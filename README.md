@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
-<h3 align="center">I'm studying bioengineering, CS, and robotics @ UPenn, and passionate about the clinical implementation of software and devices! </h3>
+<h3 align="center">I'm studying bioengineering, CS, and robotics @ UPenn, and passionate about optimizing machine learning for speed and size restrictions in practice! </h3>
 
-- 🔭 I’m currently working at CIONIC, developing lower-arm neurorehabilitative devices. Right now, I'm primarily working on expanding the CIONIC Developer Kit to support TinyML in CircuitPython and contributing some native driver support for the BNO08x back to Adafruit. I'm also developing some in-app protocols in Javascript and some analysis scripts in Python. Check out our public repos at [cionicwear](https://github.com/cionicwear)! 
+- 🔭 I’m currently working at CIONIC, developing lower-arm neurorehabilitative devices. Right now, I'm primarily expanding the CIONIC Developer Kit to support TinyML in CircuitPython and contributing some native driver support for the BNO08x back to Adafruit. I'm also developing some in-app protocols in Javascript and some analysis scripts in Python. Check out our public repos at [cionicwear](https://github.com/cionicwear)! 
 
 - 👨‍💻 Check out my projects below! Including [Twitter Student Classifier](https://github.com/christopherwun/twitter-student-classifier), a NLP project that I presented and published at an AACL international conference and [Rocky Rehab](https://github.com/christopherwun/rocky_rehab)/[Human-Cockroach Machine Interface](https://github.com/christopherwun/human-cockroach-machine-interface), my back-to-back Best Design-winning designs in Penn's Bioengineering department.
 
