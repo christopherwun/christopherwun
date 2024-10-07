@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at CIONIC, developing lower-arm neurorehabilitative devices. Right now, I'm primarily expanding the CIONIC Developer Kit to support TinyML in CircuitPython and contributing some native driver support for the BNO08x back to Adafruit. I'm also developing some in-app protocols in Javascript and some analysis scripts in Python. Check out our public repos at [cionicwear](https://github.com/cionicwear)! 
 
-- 👨‍💻 Check out my projects below! Including [Twitter Student Classifier](https://github.com/christopherwun/twitter-student-classifier), a NLP project that I presented and published at an AACL international conference and [Rocky Rehab](https://github.com/christopherwun/rocky_rehab)/[Human-Cockroach Machine Interface](https://github.com/christopherwun/human-cockroach-machine-interface), my back-to-back Best Design-winning designs in Penn's Bioengineering department.
+- 👨‍💻 Check out my projects below! Including [Twitter Student Classifier](https://github.com/christopherwun/twitter-student-classifier), an ML/NLP project that I presented and published at an AACL international conference, [NeRF-positional-encoding](https://github.com/christopherwun/NeRF-positional-encoding), an exploration in ML-assisted 2D/3D scene reconstruction, and [Rocky Rehab](https://github.com/christopherwun/rocky_rehab)/[Human-Cockroach Machine Interface](https://github.com/christopherwun/human-cockroach-machine-interface), my back-to-back Best Design-winning projects in Penn's Bioengineering department.
 
 - 🌱 I’m currently learning **PyTorch, Tensorflow, MicroPython**
 
