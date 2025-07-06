@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
-<h3 align="center">I studied bioengineering, CS, and robotics @ UPenn, and passionate about applying concepts in machine learning, optimization, and control in medicine. </h3>
+<h3 align="center">I studied bioengineering, CS, and robotics @ UPenn (BSE/MSE), and passionate about applying concepts in machine learning, optimization, and control in medicine. </h3>
 
 - 🔭 I’m currently working at CIONIC, developing lower-arm neurorehabilitative devices. Right now, I'm primarily expanding the CIONIC Developer Kit to support TinyML in CircuitPython and contributing some native driver support for the BNO08x back to Adafruit. I'm also developing some in-app protocols in Javascript and some analysis scripts in Python. Check out our public repos at [cionicwear](https://github.com/cionicwear)! 
 
